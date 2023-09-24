@@ -56,13 +56,15 @@ $apps = @(
 
     <# Developer Languages #>
     @{name = "Anaconda.Miniconda3" },
+    @{name = "Microsoft.DotNet.SDK.7" },
+    @{name = "OpenJS.NodeJS.LTS" },
+
+    <# Developer Tooling #>
     @{name = "Docker.DockerDesktop" },
     @{name = "GitHub.GitHubDesktop" },
-    @{name = "Microsoft.DotNet.SDK.7" },
     @{name = "Microsoft.PowerShell" },
     @{name = "Microsoft.VisualStudioCode" },
     @{name = "Microsoft.WindowsTerminal" },
-    @{name = "OpenJS.NodeJS.LTS" },
     @{name = "Postman.Postman" },
 
     <# Azure Tooling #>
