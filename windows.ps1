@@ -41,9 +41,14 @@ $apps = @(
     <# General Applications #>
     @{name = "CPUID.CPU-Z" }, 
     @{name = "Discord.Discord" },
+    @{name = "ElectronicArts.EADesktop" }.
+    @{name = "EpicGames.EpicGamesLauncher" }.
     @{name = "Google.Chrome" },
+    @{name = "Logitech.GHUB" },
     @{name = "Nvidia.GeForceExperience" },
     @{name = "Spotify.Spotify" },
+    @{name = "SteelSeries.GG" },
+    @{name = "Ubisoft.Connect" },
     @{name = "Valve.Steam" },
 
     <# Productivity Applications #>
